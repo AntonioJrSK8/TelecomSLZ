@@ -1,0 +1,8 @@
+.facebook {
+    background-image: url("https://img.icons8.com/fluent/48/000000/instagram-new.png") no-repeat;
+    background-size: 48px 48px;
+}
+
+.instagram {
+    background: url('https://api.iconify.design/ant-design:instagram-outlined.svg') no-repeat center center / contain;
+}
