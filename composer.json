@@ -10,7 +10,8 @@
         "kris/laravel-form-builder": "1.*",
         "laravel/framework": "5.5.0",
         "laravel/tinker": "~1.0",
-        "patricktalmadge/bootstrapper": "^5.11"
+        "patricktalmadge/bootstrapper": "^5.11",
+        "tijsverkoyen/css-to-inline-styles": "2.2.3"
     },
     "require-dev": {
         "barryvdh/laravel-ide-helper": "^2.7",
